@@ -1,0 +1,4 @@
+Cambiamos de versión a la 1.4.0!!! En esta actualización incluímos:
+-Un menú que cada vez que actualices te contará las novedades
+-Una intro del launhcer
+-Un developer mode para la gente que necesita probar novedades al máximo
